@@ -3,7 +3,7 @@
 <!-- Animation Typing -->
 
 <p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=I'm%20Sandra%20Atino;A%20Full-stack%20web%20developer;Experienced%20UI%2FUX%20Designer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=I'm%20Ezequiel%20Giampaoli;A%20Full-Stack%20Web%20Developer;Experienced%20Front-End%20Developer;1%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=green&vCenter=true&size=22&pause=1000" /></a>
 </p>
 
 <!-- Animation Typing: END -->
@@ -20,7 +20,6 @@
 
 <a href="https://github.com/egiam"><img align="left" width="170" height="170" src="Sandra-octocat-rotating.gif"></a>
 
-  <p align="right">     
   <p><a href="https://www.linkedin.com/in/ezequiel-giampaoli/"><img src="https://img.shields.io/badge/-egiam%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/sandra-atino-459a231a9" alt="LinkedIn Badge"></a> </p>
     <p>         <a href="mailto:ezegiampaoli@gmail.com"><img src="https://img.shields.io/badge/-Ezequiel%20Giampaoli-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:ezegiampaoli@gmail.com" alt="Gmail Badge"></a></p>
 
