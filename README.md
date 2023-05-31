@@ -18,12 +18,13 @@
 
 <h3 align="left">Find me around the Web:</h3>
 
-<a href="https://github.com/egiam"><img align="left" width="170" height="170" src="Sandra-octocat-rotating.gif"></a>
+<br>
 
-  <p><a href="https://www.linkedin.com/in/ezequiel-giampaoli/"><img src="https://img.shields.io/badge/-egiam%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/sandra-atino-459a231a9" alt="LinkedIn Badge"></a> </p>
-    <p>         <a href="mailto:ezegiampaoli@gmail.com"><img src="https://img.shields.io/badge/-Ezequiel%20Giampaoli-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:ezegiampaoli@gmail.com" alt="Gmail Badge"></a></p>
-
+  <p><a href="https://github.com/egiam/"><img src="https://img.shields.io/badge/-GitHub%20-black?style=plastic&amp;labelColor=black&amp;logo=GitHub&amp;link=www.github.com/egiam" alt="GitHub Badge"></a> </p>
+  <p><a href="https://www.linkedin.com/in/ezequiel-giampaoli/"><img src="https://img.shields.io/badge/-LinkedIn%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/ezequiel-giampaoli/" alt="LinkedIn Badge"></a> </p>
+    <p>         <a href="mailto:ezegiampaoli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:ezegiampaoli@gmail.com" alt="Gmail Badge"></a></p>
    </p>
+    <p><a href="https://egiam.github.io/"><img src="https://img.shields.io/badge/-Portfolio%20-lightblue?style=plastic&amp;labelColor=lightblue&amp;logo=Github&amp;link=egiam.github.io/" alt="Portfolio Badge"></a> </p>
 
 ---
 
