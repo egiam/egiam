@@ -32,11 +32,14 @@
 
 ## :fire: Github Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=egiam&theme=dark)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=egiam&theme=dark)](https://git.io/streak-stats) -->
+![GitHub Streak](https://github-readme-stats.tuhidulhossain.com/api/streak?username=egiam&theme=tokyonight)
+#
+![](https://github-trophies.vercel.app/?username=egiam)
 
 ## </p>
 
-## Programming Languages<img src="https://camo.githubusercontent.com/b0fa06ee100360ae8811a115c133de7848891e3b/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d776869737065722e676966" width="70" height="70" />
+## Programming Languages
 
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=FFFFFF)
 ![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=FFFFFF)
@@ -71,7 +74,7 @@
 ![SQLServer](https://img.shields.io/badge/SQLServer%20-%23003B57.svg?&style=for-the-badge&logo=microsoft-sql-server&logoColor=FFFFFF)
 
 ---
-
+<!-- 
 #
 
 ### 📊 Stats
@@ -80,6 +83,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=egiam&theme=highcontrast&show_icons=true?" alt="egiam" /></p>
 
-![](https://github-trophies.vercel.app/?username=egiam)
+![](https://github-trophies.vercel.app/?username=egiam) 
 
 #
+-->
