@@ -32,7 +32,7 @@
 
 ## :fire: Github Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=egiam&theme=highcontrast" alt="egiam" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=egiam&theme=dark)](https://git.io/streak-stats)
 
 ## </p>
 
@@ -80,6 +80,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=egiam&theme=highcontrast&show_icons=true?" alt="egiam" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=egiam&theme=dracula)](https://github.com/egiam/github-profile-trophy)
+![](https://github-trophies.vercel.app/?username=egiam)
 
 #
